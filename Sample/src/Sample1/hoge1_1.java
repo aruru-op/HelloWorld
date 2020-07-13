@@ -6,5 +6,4 @@ public class hoge1_1 {
 		System.out.println("ほげほげ");
 		System.out.print("ほげほげ");
 	}
-
 }
